@@ -1,5 +1,5 @@
 <?PHP
-header("Access-Control-Allow-Origin: https://plug.dj");
+header("Access-Control-Allow-Origin: https://stg.plug.dj");
 
 function simsimi($tresc, $sid, $uid, $data) {
 	/* auth */
