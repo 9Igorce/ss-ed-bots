@@ -154,7 +154,7 @@ var server = http.createServer(function(request, response) {
 			.writeHead(
 					200,
 					{
-						"Access-Control-Allow-Origin" : 'https://stg.plug.dj',
+						"Access-Control-Allow-Origin" : 'https://plug.dj',
 						"Access-Control-Allow-Credentials" : "true",
 						"Access-Control-Allow-Headers" : "Origin, X-Requested-With, Content-Type, Accept"
 					});
