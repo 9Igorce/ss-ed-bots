@@ -1,7 +1,6 @@
 {
 	"name": "LuizEdP",
     "description": "SimSimi/Ed Client",
-    "private": "true",
     "version": "1.0.0",
 	"scripts": {
 	   "start": "node request.js"
