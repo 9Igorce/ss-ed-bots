@@ -1,5 +1,5 @@
 <?PHP
-header("Access-Control-Allow-Origin: https://stg.plug.dj");
+header("Access-Control-Allow-Origin: https://plug.dj");
 header("Access-Control-Allow-Credentials: true ");
 header("Access-Control-Allow-Methods: OPTIONS, GET, POST");
 header("Access-Control-Allow-Headers: Content-Type, Depth, User-Agent, X-File-Size, 
